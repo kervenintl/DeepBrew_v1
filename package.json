@@ -2,7 +2,7 @@
   "name": "first-work",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "v1.deeplink.network",
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
     "@material-ui/core": "^4.12.3",
